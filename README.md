@@ -41,6 +41,6 @@ Below are my main projects. Each repository includes a README with goals, setup,
 
 ## 📨 Get in touch
 
-- Email: your.email@example.com  
-- LinkedIn: https://linkedin.com/in/your‑profile (when ready)  
-- GitHub: https://github.com/your‑username
+- Email: thomasmoran09@hotmail.com  
+- LinkedIn: www.linkedin.com/in/thomas-moran-6973223b5 
+- GitHub: https://github.com/lolman2009
